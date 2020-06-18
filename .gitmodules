@@ -1,0 +1,6 @@
+[submodule "research/Cairo.jl"]
+	path = research/Cairo.jl
+	url = git@github.com:JuliaGraphics/Cairo.jl
+[submodule "research/Luxor.jl"]
+	path = research/Luxor.jl
+	url = git@github.com:JuliaGraphics/Cairo.jl
