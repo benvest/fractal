@@ -1,6 +1,8 @@
 # benvest 010 6/18/20
 using Luxor
 
+# How can I avoid redrawing lines, some sort of caching?
+
 function draw(primarysize=500)
     sides = 6
 
