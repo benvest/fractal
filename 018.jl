@@ -70,6 +70,3 @@ end 25000 25000
 # Use other writing and code as a guide but make sure that everything that goes into this repo was coded by
 # me not someone else, such that if needed I could recreate each of the images with c and an old vga cable
 # and duct tape as well since that fits into this weird making it work with limited resources theme.
-#
-#
-#
